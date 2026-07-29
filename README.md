@@ -32,7 +32,7 @@ The project demonstrates the complete Machine Learning workflow starting from da
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="60"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 
 </div>
 ---
@@ -167,7 +167,7 @@ HousePrice_Regression_Project
 ---
 <div align="center">
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="60"/>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300"/>
 
 </div>
 # 📚 Assignment Coverage
@@ -238,7 +238,7 @@ Launch Jupyter Notebook and open the required notebook to explore the project.
 ---
 <div align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
 
 </div>
 # 👩‍💻 Author
