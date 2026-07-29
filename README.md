@@ -30,6 +30,11 @@ House Price Prediction is a Machine Learning Regression project that predicts th
 
 The project demonstrates the complete Machine Learning workflow starting from data understanding to model evaluation using various regression algorithms.
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
+
+</div>
 ---
 
 # 🎯 Project Objectives
