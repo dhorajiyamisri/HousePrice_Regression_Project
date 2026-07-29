@@ -2,13 +2,8 @@
 
 # 🏠 House Price Prediction using Machine Learning
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
-
 ### 📊 End-to-End Regression Analysis with Python & Scikit-Learn
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=House+Price+Prediction;Machine+Learning+Regression;Data+Analysis+%7C+Visualization;Built+using+Python+%26+Scikit-Learn"/>
-
-</div>
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=House+Price+Prediction;Machine+Learning+Regression;Data+Analysis+%7C+Visualization;Built+using+Python+%26+Scikit-Learn" />
 </p>
