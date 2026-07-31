@@ -27,8 +27,9 @@
 
 # 📌 Project Overview
 
-House Price Prediction is a Machine Learning Regression project that predicts the selling price of residential properties based on multiple house-related features.
+## Objective
 
+The objective of this project is to build and evaluate regression models for predicting house prices using supervised machine learning techniques and compare their performance using standard evaluation metrics.
 The project demonstrates the complete Machine Learning workflow starting from data understanding to model evaluation using various regression algorithms.
 
 <div align="center">
@@ -60,14 +61,12 @@ The project demonstrates the complete Machine Learning workflow starting from da
 
 # 🏠 Dataset Information
 
-### Dataset Size
+## Dataset
 
-| Item | Value |
-|------|------:|
-| Records | 4,202 |
-| Features | 13 |
-| Target Variable | House Price |
-
+- Total Records: 4202
+- Features: 13
+- Target Variable: House Price
+- Dataset Type: Real Estate Housing Dataset
 ---
 
 ### Dataset Features
@@ -172,18 +171,18 @@ HousePrice_Regression_Project
 
 </div>
 # 📚 Assignment Coverage
+| Part   | Notebook                   |
+| ------ | -------------------------- |
+| Part A | Conceptual Understanding   |
+| Part B | Dataset Understanding      |
+| Part C | Simple Linear Regression   |
+| Part D | Model Evaluation           |
+| Part E | Multiple Linear Regression |
+| Part F | Polynomial Regression      |
+| Part G | Gradient Descent           |
+| Part H | Bias–Variance Trade-off    |
+| Part I | Final Analysis             |
 
-| Part | Description | Status |
-|------|-------------|:------:|
-| Part A | Conceptual Understanding | ✅ |
-| Part B | Dataset Understanding | ✅ |
-| Part C | Simple Linear Regression | ✅ |
-| Part D | Model Evaluation | ✅ |
-| Part E | Multiple Linear Regression | ✅ |
-| Part F | Polynomial Regression | ✅ |
-| Part G | Gradient Descent | ✅ |
-| Part H | Bias–Variance Trade-off | ✅ |
-| Part I | Final Conclusion | ✅ |
 
 ---
 
