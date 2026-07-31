@@ -38,6 +38,7 @@ The project demonstrates the complete Machine Learning workflow starting from da
 
 </div>
 ---
+<img width="1198" height="918" alt="Recording 2026-07-30 152152" src="https://github.com/user-attachments/assets/7b2fc03e-a4f9-403f-912c-057e895ba271" />
 
 # 🎯 Project Objectives
 
