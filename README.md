@@ -1,7 +1,9 @@
 <div align="center">
 
 # 🏠 House Price Prediction using Machine Learning
-
+<p align="center">
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="180"/>
+</p>
 ### 📊 End-to-End Regression Analysis with Python & Scikit-Learn
 
 <p>
